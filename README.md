@@ -1,5 +1,5 @@
 # Onbilgi
-Bu repository Fraktal Geometri dersi icin hazirlanmis odev kodlarini icerir. https://emretepedev.github.io/fraktal-geometri-l-sistemleri/ adresinden goruntulenebilir. Herhangi bir PR kabul edilmeyecektir. Dersin egitmeni, bu application'i derslerde kendi tarafindan kullanilacagini beyan etmesi sebebiyle sadece GitHub Pages uzerinde yayinlanmasi amaciyla bulunmaktadir.
+Bu repository Fraktal Geometri dersi icin hazirlanmis odev kodlarini icerir. https://emretepedev.github.io/fraktal-geometri-l-sistemleri/ adresinden goruntulenebilir. Herhangi bir PR kabul edilmeyecektir. Dersin egitmeni, bu application'in derslerde kendi tarafindan kullanilacagini beyan etmesi sebebiyle sadece GitHub Pages uzerinde yayinlanmasi amaciyla bulunmaktadir.
 
 # Nasil Calisir
 
